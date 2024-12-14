@@ -1,0 +1,6 @@
+.DS_Store
+target/
+config.json
+debug.log
+crypto_tracker.log
+Cargo.lock
